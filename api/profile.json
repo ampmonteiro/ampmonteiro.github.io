@@ -1,0 +1,374 @@
+{
+    "presentation": "My name is Agostinho Monteiro, live in Porto (Portugal), and I'm Web Developer ( Full-Stack ).",
+    "intro": "Masters in Informatics Engineering - Graphic Systems and Multimedia at",
+    "school": "ISEP",
+    "link": "www.isep.ipp.pt",
+    "link_title": "visit ISEP",
+    "exp": "with 2 years of professional experience, plus two academic internships in company context of 5 months each.",
+    "open": "",
+    "current": true,
+    "company": "Inventore",
+    "linkedin": "",
+    "github": "",
+    "updated": "2019-02-09",
+    "jobs": [{
+            "company": "Inventore",
+            "title": "Web Developer",
+            "period": "Mar 2018 - Present",
+            "duration": "-",
+            "tech": "",
+            "frameworks": "",
+            "software": "",
+            "db": "",
+            "cvs": "",
+            "obs": ""
+        },
+        {
+            "company": "B-SIMPLE",
+            "title": "Web Developer",
+            "period": "Mar 2017 - Aug 2017",
+            "duration": "6 Months",
+            "tech": "HTML, CSS, JavaScript / TypeScript, C #, T-SQL, LINQ;",
+            "frameworks": "Microsoft ASP.NET Core Web API, EF Core (Entity Framework), Angular ( v2 / v4 ), Twitter Boostrap v4;",
+            "software": " Visual Studio 2017",
+            "db": "Microsoft SQL Server, VS Code",
+            "cvs": "Microsoft TFS",
+            "obs": ""
+        },
+        {
+            "company": "EQS Global",
+            "title": "Web Developer",
+            "period": "Apr 2016 - Sept 2016",
+            "duration": "6 Months",
+            "tech": "HTML, CSS, JavaScript , PHP, JSON, AJAX;",
+            "frameworks": "jQuery, Twitter Bootstrap, JSPDF;",
+            "software": "Atom",
+            "db": "PostgreSQL",
+            "cvs": "",
+            "obs": ""
+        },
+        {
+            "company": "Improxy",
+            "title": "Web Developer (Front-End)",
+            "period": "Jul 2013 - Jun 2014",
+            "duration": "1 Year",
+            "tech": "HTML, CSS, JavaScript, ASP.NET, VB.NET;",
+            "frameworks": "jQuery",
+            "software": "Microsoft Visua Studio 2012",
+            "db": "",
+            "cvs": "Turtoise SVN",
+            "obs": "Professional internship through the IEFP program (12 Months)"
+        },
+        {
+            "company": "CimpleCare",
+            "title": "Web Developer",
+            "period": "Mar 2012 - Jul 2012",
+            "duration": "5 Months",
+            "tech": " HTML, CSS, JavaScript, AJAX, JSON, PL/SQL;",
+            "frameworks": "jQuery",
+            "software": "Oracle SQL Developer",
+            "db": "Oracle",
+            "cvs": "",
+            "obs": "Academic internship through Degree in Computer Science Engineering Program "
+        },
+        {
+            "company": "Netserv-Online Solutions",
+            "title": "Web Developer",
+            "period": "Mar 2008 - Jul 2008",
+            "duration": "5 Months",
+            "tech": " HTML, PHP, CSS, SQL;",
+            "frameworks": "",
+            "software": "Adobe DreamWeaver",
+            "db": "MySQL",
+            "cvs": "",
+            "obs": "Academic internship the Development of Multimedia Products CET program of ISMAI"
+        }
+    ],
+    "edu": [{
+            "school": "IEFP / AEP",
+            "year": 2016,
+            "course": "Multimedia Tech (Lv. 4) - Vida Ativa Program"
+        },
+        {
+            "school": "ISEP",
+            "year": 2015,
+            "course": "Master's in Informatics Engineering"
+        },
+        {
+            "school": "ISGAYA",
+            "year": 2014,
+            "course": "HTML5 Course - 3ª Ed."
+        },
+        {
+            "school": "ISGAYA",
+            "year": 2013,
+            "course": "Microsoft Silverlight 5 Course - 1ª Ed."
+        },
+        {
+            "school": "ISGAYA",
+            "year": 2012,
+            "course": "Degree in Computer Science Engineering (Lv. 6)"
+        },
+        {
+            "school": "ISMAI",
+            "year": 2008,
+            "course": "CET in Development of Multimedia Products"
+        }
+    ],
+    "tech": [{
+            "name": "HTML",
+            "years": 9,
+            "context": "Used in some academics projects of CET (ISMAI), Degree (ISPGAYA) and Master Degree (ISEP). Professional projects to Improxy, EQS and B-Simple."
+        },
+        {
+            "name": "HTM5",
+            "years": 3,
+            "context": "HTML5 Course (ISPGAYA).Thesis of Master Degree (ISEP), Multimedia Tech. Private projects."
+        },
+        {
+            "name": "CSS3",
+            "years": 3,
+            "context": "HTML5 Course (ISPGAYA).Thesis of Master Degree (ISEP), Multimedia Tech. Private projects. Professional projects to B-Simple"
+        },
+        {
+            "name": "CSS",
+            "years": 7,
+            "context": "HTML5 Course (ISPGAYA).Thesis of Master Degree (ISEP), Multimedia Tech. Private projects. Professional projects to B-Simple"
+        },
+        {
+            "name": "Twitter Bootstrap (v.4)",
+            "years": 0.6,
+            "context": "Professional projects to B-Simple"
+        },
+        {
+            "name": "Twitter Bootstrap (v.3)",
+            "years": 4,
+            "context": "Degree (ISPGAYA) and Master Degree (ISEP). HTML5 Course and Professional projects to EQS"
+        },
+        {
+            "name": "Materialize.CSS",
+            "years": 1,
+            "context": "Some Private projects, Used My Portfolio v2016 with EmberJS"
+        },
+        {
+            "name": "Animate.CSS",
+            "years": 1,
+            "context": "Some Private projects, Used My Portfolio v2016 with EmberJS"
+        },
+        {
+            "name": "TypeScript",
+            "years": 0.6,
+            "context": "Some Private projects. Professional projects to B-Simple."
+        },
+        {
+            "name": "ES 6 | 2015",
+            "years": 0.6,
+            "context": "Some Private projects. Professional projects to B-Simple."
+        },
+        {
+            "name": "JavaScript",
+            "years": 5,
+            "context": "Degree (ISPGAYA), Master Degree (ISEP) and Multimedia Tech. Professional projects to Improxy, EQS and B-Simple"
+        },
+        {
+            "name": "jQuery",
+            "years": 4,
+            "context": "Degree (ISPGAYA), Master Degree (ISEP) and Multimedia Tech. Professional projects to Improxy and EQS"
+        },
+        {
+            "name": "AJAX",
+            "years": 2,
+            "context": "Used in Internship at Cimplace under Degree program (ISPGAYA) Some academic projects of Master Degree. Professional projects to Improxy and EQS"
+        },
+        {
+            "name": "JSON",
+            "years": 3,
+            "context": "Used in Internship at Cimplace under Degree program (ISPGAYA) Some academic projects of Master Degree. Professional projects to Improxy, EQS and B-Simple"
+        },
+        {
+            "name": "XML",
+            "years": 1,
+            "context": "Some academics projects to the Degree (ISPGAYA)"
+        },
+        {
+            "name": "T-SQL",
+            "years": 1,
+            "context": "Degree (ISPGAYA). Professional projects to B-Simple"
+        },
+        {
+            "name": "MySQL",
+            "years": 3,
+            "context": "Used in some academics projects of CET (ISMAI), Degree (ISPGAYA) and Master Degree (ISEP)."
+        },
+        {
+            "name": "PostgreSQL",
+            "years": 0.6,
+            "context": "Professional Projects to EQS"
+        },
+        {
+            "name": "PL/SQL",
+            "years": 0.5,
+            "context": "Used in project of CimpleCare company under academic internship of the Degree (ISPGAYA)"
+        },
+        {
+            "name": "PHP",
+            "years": 4,
+            "context": "Used in some academics projects of CET (ISMAI), Degree (ISPGAYA) and Master Degree (ISEP). Professional Projects to EQS."
+        },
+        {
+            "name": "ASP.NET Core Web API",
+            "years": 0.6,
+            "context": "Professional Projects to B-Simple."
+        },
+        {
+            "name": "ASP.NET",
+            "years": 1,
+            "context": "Professional Projects to Improxy"
+        },
+        {
+            "name": "C#",
+            "years": 2,
+            "context": "On Silverlight Course (ISPGAYA), acdemic projects of Masters Degree. Professional projects to B-Simple."
+        },
+        {
+            "name": "VB.NET",
+            "years": 1,
+            "context": "Professional projects to Improxy"
+        },
+        {
+            "name": "Silverlight5",
+            "years": 0.1,
+            "context": "Silverlight Course (ISPGAYA)"
+        }
+    ],
+    "soft": [{
+            "name": "Visual Studio Code",
+            "years": 1,
+            "context": "Private Projects,  Professional projects to B-Simple"
+        },
+        {
+            "name": "Visual Studio 2017",
+            "years": 0.6,
+            "context": "Professional projects to B-Simple"
+        },
+        {
+            "name": "Microsoft Sql-Server",
+            "years": 1,
+            "context": "Use on some academic projects to Degree  (ISPGAYA). On professional projects to B-Simple"
+        },
+        {
+            "name": "Atom",
+            "years": 2,
+            "context": "Use on some Private projects. Professional projects to EQS"
+        },
+        {
+            "name": "NetBeans",
+            "years": 5,
+            "context": "Use on some projects of the Computer Engineering Degree, Thesis of Masters Degree"
+        },
+        {
+            "name": "Eclipse",
+            "years": 0.5,
+            "context": "Use on some academic projects of Masters Degree"
+        },
+        {
+            "name": "Adobe DreamWeaver",
+            "years": 1,
+            "context": "Use on some projects of the CET and on some Highschool projects"
+        },
+        {
+            "name": "Adobe Premiere",
+            "years": 0.8,
+            "context": "Use on some projects of the CET and Multimedia Tech"
+        },
+        {
+            "name": "Adobe After Effects",
+            "years": 0.8,
+            "context": "Use on some projects of the CET and Multimedia Tech"
+        },
+        {
+            "name": "Adobe Illustrator",
+            "years": 0.8,
+            "context": "Use on some projects of the CET and Multimedia Tech"
+        },
+        {
+            "name": "Adobe Photoshop",
+            "years": 0.8,
+            "context": "Use on some projects of the CET and Multimedia Tech"
+        }
+    ],
+    "os": [{
+            "name": "Microsoft Windows",
+            "years": "since i remember",
+            "context": "Professionally, Academically and on Private Life"
+        },
+        {
+            "name": "Apple MacOs",
+            "years": "6",
+            "context": "Private Life"
+        },
+        {
+            "name": "Linux Debian",
+            "years": "1",
+            "context": "Used in academic projects to Degree (ISPAGAYA)"
+        },
+        {
+            "name": "Linux Unbuntu",
+            "years": "2",
+            "context": "Used in academic projects to Degree (ISPAGAYA)"
+        }
+
+
+    ],
+    "projects": [{
+            "title": "ES2015 Native Browser Modules",
+            "descr": "<p>Showing how to use es2015+ Modules Loader in Browsers without the need to use babel or traceur or SystemJS tool.  </p>",
+            "year": 2018,
+            "tech": "JavaScript",
+            "frameworks": "",
+            "software": "Atom, git",
+            "imgUrl": "assets/p2018.png",
+            "url": "https://github.com/ampmonteiro/es2015-native-module-loader"
+        },
+        {
+            "title": "Protfolio: Angular Version",
+            "descr": "<p>Developed new  my portfolio website using Angular (v4) for routing and to load data.  W3.css for the layout. Hosted by github </p>",
+            "year": 2017,
+            "tech": "JavaScript, CSS3, HTML5",
+            "frameworks": "Angular(v4),  W3.css and font-awesome ",
+            "software": "VS Code, git",
+            "imgUrl": "assets/p2017.png",
+            "url": "https://ampmonteiro.github.io"
+        },
+        {
+            "title": "DP Creator",
+            "descr": "<p>DP, as Document Profile, aims to create a document that normally a RH campany always asked to the candidate fill with software like Microsoft word. And to study technology capable of generate PDF on client side.</p> <p> With this project, the candidate dont need to open that kind of software (Word), only a browser, select the some fields and generate a PDF file to send to RH campany.</p><p>The generation of the PDF file is executed and created only on client side, which is the browser. </p>",
+            "year": 2016,
+            "tech": "HTML5, CSS3, JavaScript; ",
+            "frameworks": "JSPDF, JSDF Plugin: AutoTable, jQuery, Twitter Bootstrap;",
+            "software": "Atom",
+            "imgUrl": "assets/dc16.png",
+            "url": "https://ampmonteiro.github.io/dp-creator/"
+        },
+        {
+            "title": "Multimedia Tech - Final Project",
+            "descr": "<p>This project aims  to create my website / protfolio (version 2016) to multimedia tech course as final project. </p> <p> The first stage of this project was to develop the design of website ith Adobe illustrator. </p><p>The second and final stage was transform the design file into real website and upload to a webserver to show.</p>",
+            "year": 2016,
+            "tech": "HTML5, CSS3, JavaScript; ",
+            "frameworks": "jQuery, Emberjs 2, MaterializeCSS and Animate.CSS;",
+            "software": "Atom, Adobe Illustrator, Ember-CLI ",
+            "imgUrl": "assets/portfolio16.png",
+            "url": "http://ampmonteiro.byethost17.com"
+        },
+        {
+            "title": "Masters Thesis Project",
+            "descr": "<p>Study the currently image manipulation software.</p><p>Study and create a web app to run only on client side (browser) to modify images.</p>",
+            "year": 2015,
+            "tech": "HTML5, CSS3, JavaScript;",
+            "frameworks": "Canvas API, Query,Twitter Bootstrap, CamanJS, HammerJS;",
+            "software": "Netbeans",
+            "imgUrl": "assets/thesis15.png",
+            "url": "https://ampm-thesis-2015.surge.sh"
+        }
+    ]
+}
