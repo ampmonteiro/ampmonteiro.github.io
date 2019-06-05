@@ -4,23 +4,23 @@
     "school": "ISEP",
     "link": "www.isep.ipp.pt",
     "link_title": "visit ISEP",
-    "exp": "with 2 years of professional experience, plus two academic internships in company context of 5 months each.",
+    "exp": "with 3 years of professional experience, plus two academic internships in company context of 5 months each.",
     "open": "",
     "current": true,
     "company": "Inventore",
     "linkedin": "",
     "github": "",
-    "updated": "2019-02-09",
+    "updated": "2019-06-05",
     "jobs": [{
             "company": "Inventore",
             "title": "Web Developer",
             "period": "Mar 2018 - Present",
             "duration": "-",
-            "tech": "",
-            "frameworks": "",
-            "software": "",
-            "db": "",
-            "cvs": "",
+            "tech": " HTML, CSS, JavaScript / TypeScript, PHP, SQL, JSON; ",
+            "frameworks": "Angular, Twitter Boostrap v4;",
+            "software": "VS Code",
+            "db": " MySQL ",
+            "cvs": "Git",
             "obs": ""
         },
         {
@@ -28,10 +28,10 @@
             "title": "Web Developer",
             "period": "Mar 2017 - Aug 2017",
             "duration": "6 Months",
-            "tech": "HTML, CSS, JavaScript / TypeScript, C #, T-SQL, LINQ;",
+            "tech": "HTML, CSS, JavaScript / TypeScript, C#, T-SQL, LINQ, JSON;",
             "frameworks": "Microsoft ASP.NET Core Web API, EF Core (Entity Framework), Angular ( v2 / v4 ), Twitter Boostrap v4;",
             "software": " Visual Studio 2017",
-            "db": "Microsoft SQL Server, VS Code",
+            "db": "Microsoft SQL Server ",
             "cvs": "Microsoft TFS",
             "obs": ""
         },
@@ -304,7 +304,7 @@
         },
         {
             "name": "Apple MacOs",
-            "years": "6",
+            "years": "since 2010",
             "context": "Private Life"
         },
         {
@@ -315,7 +315,7 @@
         {
             "name": "Linux Unbuntu",
             "years": "2",
-            "context": "Used in academic projects to Degree (ISPAGAYA)"
+            "context": "Used in academic projects to Degree (ISPAGAYA),  Professionally at Inventore"
         }
 
 
@@ -349,16 +349,6 @@
             "software": "Atom",
             "imgUrl": "assets/dc16.png",
             "url": "https://ampmonteiro.github.io/dp-creator/"
-        },
-        {
-            "title": "Multimedia Tech - Final Project",
-            "descr": "<p>This project aims  to create my website / protfolio (version 2016) to multimedia tech course as final project. </p> <p> The first stage of this project was to develop the design of website ith Adobe illustrator. </p><p>The second and final stage was transform the design file into real website and upload to a webserver to show.</p>",
-            "year": 2016,
-            "tech": "HTML5, CSS3, JavaScript; ",
-            "frameworks": "jQuery, Emberjs 2, MaterializeCSS and Animate.CSS;",
-            "software": "Atom, Adobe Illustrator, Ember-CLI ",
-            "imgUrl": "assets/portfolio16.png",
-            "url": "http://ampmonteiro.byethost17.com"
         },
         {
             "title": "Masters Thesis Project",
