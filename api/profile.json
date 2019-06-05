@@ -117,28 +117,28 @@
     ],
     "tech": [{
             "name": "HTML",
-            "years": 9,
-            "context": "Used in some academics projects of CET (ISMAI), Degree (ISPGAYA) and Master Degree (ISEP). Professional projects to Improxy, EQS and B-Simple."
+            "years": 10,
+            "context": "Used in some academics projects of CET (ISMAI), Degree (ISPGAYA) and Master Degree (ISEP). Professional projects to Improxy, EQS, B-Simple and Inventore."
         },
         {
             "name": "HTM5",
             "years": 3,
-            "context": "HTML5 Course (ISPGAYA).Thesis of Master Degree (ISEP), Multimedia Tech. Private projects."
+            "context": "HTML5 Course (ISPGAYA).Thesis of Master Degree (ISEP), Multimedia Tech. Private projects"
         },
         {
             "name": "CSS3",
-            "years": 3,
+            "years": 4,
             "context": "HTML5 Course (ISPGAYA).Thesis of Master Degree (ISEP), Multimedia Tech. Private projects. Professional projects to B-Simple"
         },
         {
             "name": "CSS",
-            "years": 7,
-            "context": "HTML5 Course (ISPGAYA).Thesis of Master Degree (ISEP), Multimedia Tech. Private projects. Professional projects to B-Simple"
+            "years": 8,
+            "context": "HTML5 Course (ISPGAYA).Thesis of Master Degree (ISEP), Multimedia Tech. Private projects. Professional projects to B-Simple, Inventore"
         },
         {
             "name": "Twitter Bootstrap (v.4)",
-            "years": 0.6,
-            "context": "Professional projects to B-Simple"
+            "years": 1.6,
+            "context": "Professional projects to B-Simple, Inventore"
         },
         {
             "name": "Twitter Bootstrap (v.3)",
@@ -157,18 +157,18 @@
         },
         {
             "name": "TypeScript",
-            "years": 0.6,
-            "context": "Some Private projects. Professional projects to B-Simple."
+            "years": 1.6,
+            "context": "Some Private projects. Professional projects to B-Simple, Inventore."
         },
         {
-            "name": "ES 6 | 2015",
-            "years": 0.6,
-            "context": "Some Private projects. Professional projects to B-Simple."
+            "name": "es6 | es2015",
+            "years": 1.6,
+            "context": "Some Private projects. Professional projects to B-Simple, Inventore"
         },
         {
             "name": "JavaScript",
-            "years": 5,
-            "context": "Degree (ISPGAYA), Master Degree (ISEP) and Multimedia Tech. Professional projects to Improxy, EQS and B-Simple"
+            "years": 6,
+            "context": "Degree (ISPGAYA), Master Degree (ISEP) and Multimedia Tech. Professional projects to Improxy, EQS, B-Simple, Inventore"
         },
         {
             "name": "jQuery",
@@ -182,8 +182,8 @@
         },
         {
             "name": "JSON",
-            "years": 3,
-            "context": "Used in Internship at Cimplace under Degree program (ISPGAYA) Some academic projects of Master Degree. Professional projects to Improxy, EQS and B-Simple"
+            "years": 4,
+            "context": "Used in Internship at Cimplace under Degree program (ISPGAYA) Some academic projects of Master Degree. Professional projects to Improxy, EQS, B-Simple, Inventore"
         },
         {
             "name": "XML",
@@ -197,8 +197,8 @@
         },
         {
             "name": "MySQL",
-            "years": 3,
-            "context": "Used in some academics projects of CET (ISMAI), Degree (ISPGAYA) and Master Degree (ISEP)."
+            "years": 4,
+            "context": "Used in some academics projects of CET (ISMAI), Degree (ISPGAYA) and Master Degree (ISEP), Inventore"
         },
         {
             "name": "PostgreSQL",
@@ -212,8 +212,8 @@
         },
         {
             "name": "PHP",
-            "years": 4,
-            "context": "Used in some academics projects of CET (ISMAI), Degree (ISPGAYA) and Master Degree (ISEP). Professional Projects to EQS."
+            "years": 5,
+            "context": "Used in some academics projects of CET (ISMAI), Degree (ISPGAYA) and Master Degree (ISEP). Professional Projects to EQS, Inventore"
         },
         {
             "name": "ASP.NET Core Web API",
