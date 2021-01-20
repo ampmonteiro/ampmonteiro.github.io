@@ -4,7 +4,7 @@
     "school": "ISEP",
     "link": "www.isep.ipp.pt",
     "link_title": "visit ISEP",
-    "exp": "with 3 years of professional experience, plus two academic internships in company context of 5 months each.",
+    "exp": "with 4+ years of professional experience.",
     "open": "",
     "current": true,
     "company": "Inventore",
@@ -71,18 +71,6 @@
             "cvs": "",
             "obs": "Academic internship through Degree in Computer Science Engineering Program "
         },
-        {
-            "company": "Netserv-Online Solutions",
-            "title": "Web Developer",
-            "period": "Mar 2008 - Jul 2008",
-            "duration": "5 Months",
-            "tech": " HTML, PHP, CSS, SQL;",
-            "frameworks": "",
-            "software": "Adobe DreamWeaver",
-            "db": "MySQL",
-            "cvs": "",
-            "obs": "Academic internship the Development of Multimedia Products CET program of ISMAI"
-        }
     ],
     "edu": [{
             "school": "IEFP / AEP",
@@ -146,14 +134,9 @@
             "context": "Degree (ISPGAYA) and Master Degree (ISEP). HTML5 Course and Professional projects to EQS"
         },
         {
-            "name": "Materialize.CSS",
-            "years": 1,
-            "context": "Some Private projects, Used My Portfolio v2016 with EmberJS"
-        },
-        {
             "name": "Animate.CSS",
             "years": 1,
-            "context": "Some Private projects, Used My Portfolio v2016 with EmberJS"
+            "context": "Some Private projects, Inventore"
         },
         {
             "name": "TypeScript",
