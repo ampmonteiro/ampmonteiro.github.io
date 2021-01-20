@@ -61,7 +61,6 @@
         },
         {
             "company": "CimpleCare",
-            "title": "Web Developer",
             "period": "Mar 2012 - Jul 2012",
             "duration": "5 Months",
             "tech": " HTML, CSS, JavaScript, AJAX, JSON, PL/SQL;",
@@ -70,7 +69,7 @@
             "db": "Oracle",
             "cvs": "",
             "obs": "Academic internship through Degree in Computer Science Engineering Program "
-        },
+        }
     ],
     "edu": [{
             "school": "IEFP / AEP",
